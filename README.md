@@ -42,6 +42,7 @@ Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_We
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--View personal information.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Upload their goods.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Checking the purchased goods.</p>
+<br/>
 
 <h6>This is the user's manual: <a href="https://github.com/yishuo/Boutique_en_Ligne/blob/master/demo.pdf">Demo</a></h6>
 <h6>This is the Trello about this project: <a href="https://trello.com/b/Bw2EHWbn/lyu-wang">Trello</a></h6>
