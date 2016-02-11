@@ -2,6 +2,7 @@
 <p>This is my project in the third year at Telecom Saint-Etienne (Project Recherche Innovation & project Architecture N-tiers). 
 It was completed by two students within four months and integrates with <a href="https://en.wikipedia.org/wiki/Responsive_web_design">
 Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a>.</p>
+<br/>
 
 <h3>Technologies and frameworks used</h3>
 <table style="width:100%">
@@ -24,6 +25,7 @@ Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_We
     <td>RDF</td>
   </tr>
 </table>
+<br/>
 
 <h3>Finished:</h3>
 <h6>Two parts:</h6>
