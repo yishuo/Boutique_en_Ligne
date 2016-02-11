@@ -29,8 +29,8 @@ Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_We
 
 <h3>Finished:</h3>
 <h6>Two parts:</h6>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Boutique BDE (a student Organization)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Boutique TSE (school)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Boutique BDE (For a student Organization)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Boutique TSE (For all students of school)</p>
 <h6>Sell and buy their own goods.</h6>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--BDE: Choose different types.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--TSE: Communicate and Comment.</p>
