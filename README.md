@@ -1,5 +1,5 @@
 <h1>Boutique en Ligne</h1>
-<p>This is my project in the third year at Telecom Saint-Etienne (Project Recherche Innovation & project Architecture N-tiers). 
+<p>This is my project in the third year at Telecom Saint-Etienne (Project Innovation Research & Project N-tier Architecture). 
 It was completed by two students within four months and integrates with <a href="https://en.wikipedia.org/wiki/Responsive_web_design">
 Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a>.</p>
 <br/>
@@ -43,4 +43,7 @@ Responsive Web Design</a> and <a href="https://en.wikipedia.org/wiki/Semantic_We
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Upload their goods.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--Checking the purchased goods.</p>
 
-
+<h6>This is the user's manual: <a href="https://github.com/yishuo/Boutique_en_Ligne/blob/master/demo.pdf">Demo</a></h6>
+<h6>This is the Trello about this project: <a href="https://trello.com/b/Bw2EHWbn/lyu-wang">Trello</a></h6>
+<h6>This is the diapositives presented in the examination of innovation research project: <a href="https://github.com/yishuo/Boutique_en_Ligne/blob/master/Presentation%20of%20Projet%20Recherche%20Innovation.pdf">PPT</a></h6>
+<h6>This is the report of the innovation research project: <a href="https://github.com/yishuo/Boutique_en_Ligne/blob/master/rapport.pdf">Report</a></h6>
